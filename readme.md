@@ -1,6 +1,7 @@
 # Dhesend Node.js SDK
 
 A Node.js library for interacting with the Dhesend API, designed to make email sending simple and efficient.
+
 For full documentation, visit the [official website](https://dhesend.com/docs/introduction).
 
 ## Installation
